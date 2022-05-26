@@ -1,0 +1,1 @@
+select des_versao, des_scriptextra from param
